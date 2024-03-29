@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+title: "Short Bio"
 redirect_from: 
   - /about/
   - /about.html
@@ -10,9 +11,13 @@ Yang Meng is currently pursuing a Ph.D. in Statistics at the University of Calif
 
 Research Interests
 ======
-- Deep Generative Models: We have a broad interest in deep generative models such as variational autoencoders and diffusion models, aiming to improve their scope (e.g., video diffusion, factorized VAEs, point process models) and inference efficiency (e.g., augmented spaces, iterative inference etc).
+**Multimodal Learning** multi-source image generation, multi-view variational autoencoders
 
-- Uncertainty Quantification: Our group focuses on teaching neural networks to "know what they don't know". To this end, proper uncertainty quantification and calibration is crucial (e.g., through variational inference, ensemble methods, Bayesian neural networks, approaches inspired by statistical physics etc.)
+**Generative Models** diffusion models, diffusion - variational autoencoders hybrid models, video generation
+
+**AI for Science** neuroscience (FMRI, hippocampal neural activities), climate analysis, public health
+
+**Uncertainty Quantification** Bayesian neural networks, statistical inference based on deep learning
 
 Site-wide configuration
 ------
