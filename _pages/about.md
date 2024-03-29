@@ -6,13 +6,13 @@ redirect_from:
   - /about.html
 ---
 
-Short Bio
-======
 Yang Meng is currently pursuing a Ph.D. in Statistics at the University of California, Irvine, under the mentorship of Dr. Babak Shahbaba and Dr. Stephan Mandt. With three years of full-time professional experience in Data Science, he brings a wealth of practical knowledge to his academic pursuits. Prior to his doctoral studies, Yang earned his M.A. in Statistics from Columbia University in 2020, following his B.S. in Statistics from Zhejiang University in 2018.
 
 Research Interests
 ======
+- Deep Generative Models: We have a broad interest in deep generative models such as variational autoencoders and diffusion models, aiming to improve their scope (e.g., video diffusion, factorized VAEs, point process models) and inference efficiency (e.g., augmented spaces, iterative inference etc).
 
+- Uncertainty Quantification: Our group focuses on teaching neural networks to "know what they don't know". To this end, proper uncertainty quantification and calibration is crucial (e.g., through variational inference, ensemble methods, Bayesian neural networks, approaches inspired by statistical physics etc.)
 
 Site-wide configuration
 ------
