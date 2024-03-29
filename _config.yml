@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Greater Los Angeles, California"
-  employer         : "University of California, Irvine"
+  employer         : #"University of California, Irvine"
   uri              : # URL
   email            : "mengy13@uci.edu" 
 
