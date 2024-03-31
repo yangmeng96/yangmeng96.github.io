@@ -65,6 +65,3 @@ Teaching
 * Columbia University
   * GU4234/ GR5234 – Sample Survey TA
   * GU4222/ GR5222 - Nonparametric Statistics TA
-<!--   <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
