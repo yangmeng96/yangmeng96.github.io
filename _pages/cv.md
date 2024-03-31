@@ -20,15 +20,13 @@ B.S. in Statistics, Zhejiang University, 2018
 Work experience
 ======
 Senior Data Analyst @ Varo Bank, 11/2021 - 08/2022 
-
-Machine Learning & Experimental Design
+* Machine Learning & Experimental Design
   * Improved customized customer retention strategies by modeling customer behavior with Markov chains
   * Accelerated the customer acquisition process by 14+% after designing and running an experiment to test the effect of the color changing in the email advertisement, and evaluated A/B Testing results in Tableau
   * Standardized the SQL-to-Tableau pipeline, the new ETL and analysis process are widely used in the company
 
 Data Analyst @ YipitData, 09/2020 - 10/2021
-
-Data Science Modeling & Business Analytics
+* Data Science Modeling & Business Analytics
   * Increased the revenue by 37+% after creating and presenting a tree-based housing price estimation model, and organized bi-weekly meetings with business partners to assess the client needs and research potential features
   * Launched web scraping systems and the monthly reporting system by designing DAGs using AirFlow
   
@@ -38,6 +36,7 @@ Coding
   * Languages: Python (PyTorch, Pandas, Numpy, scikit-learn)
   * Databases: PostgreSQL, MySQL, Redshift, Athena
   * Software: Tableau, AirFlow, R (dplyr, ggplot2, shiny)
+  
 Algorithms
   * Generative Models: Diffusion Models, VAE, GAN, Normalizing-Flows
   * Artificial intelligence: Multimodal Learning, Representation Learning, RNN, CNN, Contrastive Learning
