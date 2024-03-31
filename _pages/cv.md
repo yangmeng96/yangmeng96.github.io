@@ -54,6 +54,17 @@ Projects
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+* Univerity of California, Irvine
+  * STATS 212 – Statistical Methods III: Methods for Correlated Data TA
+  * STATS 67 – Introduction to Probability and Statistics for Computer Science TA
+  * STATS 67 – Introduction to Probability and Statistics for Computer Science TA
+  * STATS 7 – Basic Statistics TA
+  * STATS 210P – Statistical Methods I TA
+  * STATS 120A – Introduction to Probability and Statistics I Grader
+
+* Columbia University
+  * GU4234/ GR5234 – Sample Survey TA
+  * GU4222/ GR5222 - Nonparametric Statistics TA
+<!--   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
