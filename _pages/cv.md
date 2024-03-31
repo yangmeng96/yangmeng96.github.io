@@ -30,7 +30,7 @@ Data Science Modeling & Business Analytics
   * Increased the revenue by 37+% after creating and presenting a tree-based housing price estimation model, and organized bi-weekly meetings with business partners to assess the client needs and research potential features
   * Launched web scraping systems and the monthly reporting system by designing DAGs using AirFlow
   
-Skills
+Technical Skills
 ======
 * Coding
   * Languages: Python (PyTorch, Pandas, Numpy, scikit-learn)
