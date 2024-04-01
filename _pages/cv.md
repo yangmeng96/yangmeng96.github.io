@@ -11,22 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Statistics, University of California, Irvine, 2026 (expected)
+### Ph.D. in Statistics, University of California, Irvine, 2026 (expected)
+* Advised by [Dr. Babak Shahbaba](https://ics.uci.edu/~babaks/) and [Dr. Stephan Mandt](http://www.stephanmandt.com/)
+* Expertise: Multimodal Learning, Generative Models, Machine Learning, AI for Science
 
-* M.A. in Statistics, Columbia University, 2020
+### M.A. in Statistics, Columbia University, 2020
+* The 2019 Chair’s List Award
 
-* B.S. in Statistics, Zhejiang University, 2018
+### B.S. in Statistics, Zhejiang University, 2018
+* Chu Kochen Honors College
+* Dual Degree: B.A. in English Language and Literature
 
 Work experience
 ======
-### Senior Data Analyst @ [Varo Bank](https://www.varomoney.com/)
-**Machine Learning & Experimental Design, November 2021 - August 2022**
+### Senior Data Analyst @ [Varo Bank](https://www.varomoney.com/), 11/2021 - 08/2022
+**Machine Learning & Experimental Design**
   * Improved customized customer retention strategies by modeling customer behavior with Markov chains
   * Accelerated the customer acquisition process by 14+% after designing and running an experiment to test the effect of the color changing in the email advertisement, and evaluated A/B Testing results in Tableau
   * Standardized the SQL-to-Tableau pipeline, the new ETL and analysis process are widely used in the company
 
-### Data Analyst @ [YipitData](https://www.yipitdata.com/)
-**Data Science Modeling & Business Analytics, September 2020 - October 2021**
+### Data Analyst @ [YipitData](https://www.yipitdata.com/), 09/2020 - 10/2021
+**Data Science Modeling & Business Analytics**
   * Increased the revenue by 37+% after creating and presenting a tree-based housing price estimation model, and organized bi-weekly meetings with business partners to assess the client needs and research potential features
   * Launched web scraping systems and the monthly reporting system by designing DAGs using AirFlow
   
