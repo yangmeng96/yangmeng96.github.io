@@ -16,6 +16,7 @@ Education
 * Expertise: Multimodal Learning, Generative Models, Machine Learning, AI for Science
 
 ### M.A. in Statistics, Columbia University, 2020
+* Advised by [Dr. Tian Zheng](http://www.stat.columbia.edu/~tzheng/)
 * The 2019 Chair’s List Award
 
 ### B.S. in Statistics, Zhejiang University, 2018
