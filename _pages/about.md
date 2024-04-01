@@ -1,7 +1,7 @@
 ---
 permalink: /
 author_profile: true
-title: "Short Bio"
+title: "Biography"
 redirect_from: 
   - /about/
   - /about.html
@@ -11,4 +11,12 @@ Yang Meng is currently pursuing a Ph.D. in Statistics at the University of Calif
 
 Research Interests
 ======
-His research focuses on artificial intelligence: **Multimodal Learning**, where he explores image generation, latent representation analysis, and multimodal variational autoencoders; **Generative Models**, particularly diffusion models, diffusion-VAE hybrids, and video generation; **AI for Science**, applying AI to neuroscience, specifically through FMRI studies and hippocampal neuron activities, to climate science, and to public health analysis; and **Uncertainty Quantification**, employing Bayesian neural networks and modern statistical inference to address uncertainties in AI models.
+His research focuses on artificial intelligence: 
+
+**Multimodal Learning**: image generation, latent representation analysis, and multimodal variational autoencoders
+
+**Generative Models**: particularly diffusion models, diffusion-VAE hybrids, and video generation
+
+**AI for Science**: applying AI to neuroscience, specifically through FMRI studies and hippocampal neuron activities, to climate science, and to public health analysis
+
+**Uncertainty Quantification**, employing Bayesian neural networks and modern statistical inference to address uncertainties in AI models.
