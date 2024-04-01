@@ -25,13 +25,15 @@ Education
 Work experience
 ======
 ### Senior Data Analyst @ [Varo Bank](https://www.varomoney.com/), 11/2021 - 08/2022
-**Machine Learning & Experimental Design**
+
+Machine Learning & Experimental Design
   * Improved customized customer retention strategies by modeling customer behavior with Markov chains
   * Accelerated the customer acquisition process by 14+% after designing and running an experiment to test the effect of the color changing in the email advertisement, and evaluated A/B Testing results in Tableau
   * Standardized the SQL-to-Tableau pipeline, the new ETL and analysis process are widely used in the company
 
 ### Data Analyst @ [YipitData](https://www.yipitdata.com/), 09/2020 - 10/2021
-**Data Science Modeling & Business Analytics**
+
+Data Science Modeling & Business Analytics
   * Increased the revenue by 37+% after creating and presenting a tree-based housing price estimation model, and organized bi-weekly meetings with business partners to assess the client needs and research potential features
   * Launched web scraping systems and the monthly reporting system by designing DAGs using AirFlow
   
