@@ -20,3 +20,4 @@ His research focuses on artificial intelligence:
 **AI for Science**: applying AI to neuroscience, specifically through FMRI studies and hippocampal neuron activities, to climate science, and to public health analysis
 
 **Uncertainty Quantification**, employing Bayesian neural networks and modern statistical inference to address uncertainties in AI models.
+
