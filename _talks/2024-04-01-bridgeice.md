@@ -1,5 +1,5 @@
 ---
-title: "AI for Climate Science: Unpaired Stochastic Interpolants for Ice Crystal Analysis"
+title: "AI for Climate Science: Flow Matching for Unpaired Ice Crystal Analysis"
 collection: talks
 type: "Ongoing"
 permalink: /projects/2024-04-01-bridgeice
