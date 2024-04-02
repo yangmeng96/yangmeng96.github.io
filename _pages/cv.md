@@ -61,7 +61,7 @@ Teaching
 ======
 ### Univerity of California, Irvine
   * STATS 212 – Statistical Methods III: Methods for Correlated Data, TA
-  * STATS 67 – Introduction to Probability and Statistics for Computer Science, TA
+  * STATS 210C - Statistical Methods III: Longitudinal Data, TA
   * STATS 67 – Introduction to Probability and Statistics for Computer Science, TA
   * STATS 7 – Basic Statistics, TA
   * STATS 210P – Statistical Methods I, TA
