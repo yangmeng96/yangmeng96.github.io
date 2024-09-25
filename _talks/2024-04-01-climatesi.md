@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Interpolants: Climate Analysis"
+title: "Stochastic Interpolants and Diffusion Models: Climate Analysis"
 collection: talks
 type: "Ongoing"
 permalink: /projects/2024-04-01-climatesi
