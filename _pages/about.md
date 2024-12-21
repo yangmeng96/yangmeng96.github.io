@@ -13,7 +13,7 @@ Research Interests
 ======
 His research focuses on artificial intelligence, supported by [Chan-Zuckerberg Initiative](https://chanzuckerberg.com/).
 
-**Multimodal Learning**: , latent representation analysis, and multimodal variational autoencoders
+**Multimodal Learning**: latent representation analysis, multimodal variational autoencoders, interpretable machine learning
 
 **Generative Models**: particularly flow matching models, diffusion-VAE hybrids, normalizing flows, and protein language generation models
 
