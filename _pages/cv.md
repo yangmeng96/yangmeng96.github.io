@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 ### Ph.D. in Statistics, University of California, Irvine, 2026 (expected)
-* Advised by [Dr. Babak Shahbaba](https://ics.uci.edu/~babaks/) and [Dr. Stephan Mandt](http://www.stephanmandt.com/)
+* Advised by [Dr. Stephan Mandt](http://www.stephanmandt.com/) and [Dr. Babak Shahbaba](https://ics.uci.edu/~babaks/)
 * Expertise: Multimodal Learning, Generative Models, Machine Learning, AI for Science
 
 ### M.A. in Statistics, Columbia University, 2020
