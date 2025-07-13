@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-### Ph.D. in Statistics, University of California, Irvine, 2026 (expected)
+### Ph.D. in Statistics, University of California, Irvine, 2027 (expected)
 * Advised by [Dr. Stephan Mandt](http://www.stephanmandt.com/) and [Dr. Babak Shahbaba](https://ics.uci.edu/~babaks/)
-* Expertise: Multimodal Learning, Generative Models, Representation Learning, AI for Science, Machine Learning
+* Expertise: Multimodal Representation Learning, Generative AI, Computer Vision, AI for Science, Machine Learning
 
 ### M.A. in Statistics, Columbia University, 2020
 * Advised by [Dr. Tian Zheng](http://www.stat.columbia.edu/~tzheng/)
@@ -25,30 +25,37 @@ Education
 
 Work experience
 ======
-### Researcher @ [Chan-Zuckerberg Initiative](https://chanzuckerberg.com/), 11/2024 - Current
+### Applied Scientist Intern @ [Amazon](https://www.aboutamazon.com/what-we-do/), 06/2025 - Current
 
-AI Research 
-  * AI Research: Augmented multimodal representation learning to balance interpretability and generation performance
-  * Scientific Application: Optimized learning of robust cell representations from diverse biological data across scales
+GenAI for Computer Vision 
+  * Visual Scene Control via Stable Diffusion
+  * Text-to-Image Generation
+
+### AI Researcher @ [Chan-Zuckerberg Initiative](https://chanzuckerberg.com/), 11/2024 - Current
+
+Multimodal Learning & AI4Science
+  * AI for Cell Biology
+  * In-context Learning
 
 ### Senior Data Analyst @ [Varo Bank](https://www.varomoney.com/), 11/2021 - 08/2022
 
 Machine Learning & Experimental Design
-  * Machine Learning: Enhanced customer retention by developing models of customer behavior using Markov chains
-  * A/B Testing: Boosted customer acquisition by 14+% through the design and execution of targeted ads experiments
-  * Database: Streamlined the SQL-to-Tableau pipeline and the ETL process for broader company-wide adoption
+  * Modeling & Data Visualization
+  * Experimental Design & A/B Testing
 
 ### Data Analyst @ [YipitData](https://www.yipitdata.com/), 09/2020 - 10/2021
 
-Data Science Modeling & Business Analytics
-  * Data Science: Drove a 37% revenue increase by an automated tree-based model for housing price estimation
-  * Data Mining: Launched web scraping and monthly reporting systems by designing DAGs in Airflow
+Data Science & Business Analytics
+  * Database Management
+  * Web Scraping & ETL Pipeline Design
   
 Technical Skills
 ======
 ### Coding
-  * Languages: Python (PyTorch, Pandas, Numpy, scikit-learn)
-  * Databases: PostgreSQL, MySQL, Redshift, Athena
+  * Languages: Python
+  * AI Development: PyTorch, Pandas, Numpy, Pyro, Optuna, scikit-learn, WandB, Transformers (Hugging Face)
+  * AI Development: PyTorch, Pandas, Numpy, Pyro, Optuna, scikit-learn, WandB, Transformers (Hugging Face)
+  * Data Infrastructure: Databases (PostgreSQL, MySQL), AWS (Redshift, S3, Athena)
   * Software: Tableau, AirFlow, R (dplyr, ggplot2, shiny)
   
 ### Algorithms
