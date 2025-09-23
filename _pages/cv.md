@@ -25,17 +25,17 @@ Education
 
 Work experience
 ======
-### Applied Scientist Intern @ [Amazon](https://www.aboutamazon.com/what-we-do/), 06/2025 - Current
-
-GenAI for Computer Vision 
-  * Visual Scene Control via Stable Diffusion
-  * Text-to-Image Generation
-
 ### AI Researcher @ [Chan-Zuckerberg Initiative](https://chanzuckerberg.com/), 11/2024 - Current
 
 Multimodal Learning & AI4Science
   * AI for Cell Biology
-  * In-context Learning
+  * Multimodality Representation Learning
+  
+### Applied Scientist Intern @ [Amazon](https://www.aboutamazon.com/what-we-do/), 06/2025 - 09/2025
+
+GenAI for Computer Vision 
+  * Visual Scene Control via Stable Diffusion
+  * Text-to-Image Generation
 
 ### Senior Data Analyst @ [Varo Bank](https://www.varomoney.com/), 11/2021 - 08/2022
 
